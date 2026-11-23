@@ -1,0 +1,135 @@
+﻿@page
+@model Fuentech.Pages.Admin.LoginModel
+@{
+    Layout = null;
+    ViewData["Title"] = "Acceso administrador";
+}
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Admin | Fuentech</title>
+    <style>
+            * {
+                box-sizing: border-box;
+            }
+
+            body {
+                margin: 0;
+                min-height: 100vh;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                background: #f3f6fb;
+                font-family: Arial, sans-serif;
+                color: #14213d;
+            }
+
+            .login-card {
+                width: 90%;
+                max-width: 420px;
+                padding: 40px;
+                background: white;
+                border-radius: 16px;
+                box-shadow: 0 10px 35px rgba(0,0,0,.08);
+            }
+
+            .logo {
+                color: #14213d;
+                font-size: 30px;
+                font-weight: bold;
+                text-align: center;
+                margin-bottom: 8px;
+            }
+
+                .logo span {
+                    color: #2878f0;
+                }
+
+            h2 {
+                text-align: center;
+                font-size: 21px;
+            }
+
+            .subtitle {
+                text-align: center;
+                color: #718096;
+                font-size: 14px;
+                margin-bottom: 30px;
+            }
+
+            label {
+                display: block;
+                margin-bottom: 8px;
+                font-size: 14px;
+                font-weight: bold;
+            }
+
+            input {
+                width: 100%;
+                padding: 13px;
+                border: 1px solid #d8dfeb;
+                border-radius: 8px;
+                font-size: 15px;
+                margin-bottom: 20px;
+            }
+
+            button {
+                width: 100%;
+                padding: 14px;
+                border: none;
+                border-radius: 8px;
+                background: #2878f0;
+                color: white;
+                font-size: 15px;
+                font-weight: bold;
+                cursor: pointer;
+            }
+
+            .error {
+                color: #d93025;
+                background: #fff0ef;
+                padding: 12px;
+                border-radius: 8px;
+                font-size: 13px;
+                margin-bottom: 18px;
+            }
+
+            .back {
+                display: block;
+                text-align: center;
+                margin-top: 25px;
+                color: #718096;
+                text-decoration: none;
+                font-size: 13px;
+            }
+    </style>
+</head>
+<body>
+    <div class="login-card">
+        <div class="logo">Fuente<span>ch</span></div>
+        <h2>Panel de administración</h2>
+        <p class="subtitle">Ingresa tus credenciales para continuar</p>
+
+        @if (!string.IsNullOrEmpty(Model.ErrorMessage))
+        {
+            <div class="error">@Model.ErrorMessage</div>
+        }
+
+        <form method="post">
+            @Html.AntiForgeryToken()
+            <label for="password">Contraseña</label>
+            <input asp-for="Password"
+                   type="password"
+                   id="password"
+                   placeholder="Ingresa tu contraseña"
+                   required />
+            <button type="submit">Iniciar sesión</button>
+        </form>
+
+        <a href="/" class="back">← Volver a Fuentech</a>
+    </div>
+</body>
+</html>
