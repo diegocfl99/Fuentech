@@ -74,8 +74,7 @@
               "RelativeToolTip": "Fuentech\\Pages\\Admin\\Logout.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-23T20:14:40.387Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-23T20:14:40.387Z"
             },
             {
               "$type": "Document",
@@ -100,8 +99,7 @@
               "RelativeToolTip": "Fuentech\\Pages\\Admin\\Index.cshtml.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAiwCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-23T20:07:06.506Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-23T20:07:06.506Z"
             },
             {
               "$type": "Document",
@@ -113,8 +111,7 @@
               "RelativeToolTip": "Fuentech\\Pages\\Admin\\Index.cshtml",
               "ViewState": "AgIAAOoAAAAAAAAAAAAiwAcBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-23T20:06:52.028Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-23T20:06:52.028Z"
             },
             {
               "$type": "Document",
@@ -126,8 +123,7 @@
               "RelativeToolTip": "Fuentech\\Pages\\Admin\\Login.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-23T19:31:10.454Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-23T19:31:10.454Z"
             },
             {
               "$type": "Document",
@@ -139,8 +135,7 @@
               "RelativeToolTip": "Fuentech\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-11-23T06:39:45.953Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-23T06:39:45.953Z"
             },
             {
               "$type": "Document",
@@ -152,8 +147,7 @@
               "RelativeToolTip": "Fuentech\\Program.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAiwDAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-11T20:45:03.197Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-11T20:45:03.197Z"
             },
             {
               "$type": "Document",
@@ -165,8 +159,7 @@
               "RelativeToolTip": "Fuentech\\Services\\AiService.cs",
               "ViewState": "AgIAAH8AAAAAAAAAAAAAAJcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-11T20:43:06.373Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-11T20:43:06.373Z"
             },
             {
               "$type": "Document",
@@ -190,8 +183,7 @@
               "RelativeToolTip": "Fuentech\\Services\\SolicitudService.cs",
               "ViewState": "AgIAAF4AAAAAAAAAAAAkwGgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-23T06:42:53.475Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-23T06:42:53.475Z"
             },
             {
               "$type": "Document",
@@ -203,8 +195,7 @@
               "RelativeToolTip": "Fuentech\\Pages\\Admin\\Login.cshtml.cs",
               "ViewState": "AgIAACoAAAAAAAAAAAAiwEcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-23T19:34:09.402Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-23T19:34:09.402Z"
             },
             {
               "$type": "Document",
@@ -216,8 +207,7 @@
               "RelativeToolTip": "Fuentech\\Pages\\Index.cshtml.cs",
               "ViewState": "AgIAAIwAAAAAAAAAAAAiwKkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-28T00:08:31.357Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-28T00:08:31.357Z"
             },
             {
               "$type": "Document",
@@ -229,8 +219,7 @@
               "RelativeToolTip": "Fuentech\\Pages\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-27T23:53:51.481Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-27T23:53:51.481Z"
             }
           ]
         }

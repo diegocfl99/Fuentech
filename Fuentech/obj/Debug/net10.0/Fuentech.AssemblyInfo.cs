@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Fuentech")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20d11803d220f9e7a20a8a8536a3d343301c4080")]
 [assembly: System.Reflection.AssemblyProductAttribute("Fuentech")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Fuentech")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
